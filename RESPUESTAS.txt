@@ -1,0 +1,3 @@
+1- a simple vista logro observar que el hilo que da el primer lugar va apareciendo en distintpos ladies done no debris aparecer
+
+2- se llama race condi$tion 
